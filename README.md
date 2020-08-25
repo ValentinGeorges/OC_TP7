@@ -1,5 +1,5 @@
 # OC_TP7
-I creating a fully working social network for a company, if you want to try it out, here's how :
+I created a fully working social network for a company, if you want to try it out, here's how :
 
 Once the repository is cloned, open two terminals.
 
